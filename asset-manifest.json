@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/SoulStories/static/css/main.0e6455ec.css",
+    "main.js": "/SoulStories/static/js/main.49a2e63b.js",
+    "static/js/453.9a9c0f34.chunk.js": "/SoulStories/static/js/453.9a9c0f34.chunk.js",
+    "static/media/bg.webp": "/SoulStories/static/media/bg.31c90f8d304a3cace3a6.webp",
+    "static/media/man.webp": "/SoulStories/static/media/man.64e4ea9c0c3529541cd3.webp",
+    "index.html": "/SoulStories/index.html",
+    "main.0e6455ec.css.map": "/SoulStories/static/css/main.0e6455ec.css.map",
+    "main.49a2e63b.js.map": "/SoulStories/static/js/main.49a2e63b.js.map",
+    "453.9a9c0f34.chunk.js.map": "/SoulStories/static/js/453.9a9c0f34.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0e6455ec.css",
+    "static/js/main.49a2e63b.js"
+  ]
+}
